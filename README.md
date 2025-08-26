@@ -1,2 +1,8 @@
-# Resume-
-portfolio/  ┣ public/  ┃ ┣ index.html  ← your portfolio (frontend)  ┃ ┗ Shahariar_Ahmed_Sizan_Resume.pdf  ┣ server.js     ← Node.js backend  ┣ package.json  ┣ .env.example  ← sample env file (not pushed to GitHub)
+portfolio/
+ ┣ public/
+ ┃ ┣ index.html  ← your portfolio frontend (already wired to backend)
+ ┃ ┗ Shahariar_Ahmed_Sizan_Resume.pdf  ← placeholder (replace with your real resume)
+ ┣ server.js     ← backend (Express server)
+ ┣ package.json  ← dependencies + start script
+ ┣ .env.example  ← sample environment variables
+
